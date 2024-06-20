@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+
+# Visual Studio Code settings
+.vscode/
+
+# Compiled binaries
+/bin/
+/build/
+
+# GCC-generated files
+*.out
+*.so
+*.a
+
+
